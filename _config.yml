@@ -24,7 +24,11 @@ description: An introductry workshop for introduction to PKS
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Honorable Mentions:
+    - Awesome Kubernetes: "https://ramitsurana.github.io/awesome-kubernetes/"
+    - Kuberenetes by example: "http://kubernetesbyexample.com/"
+    - Play with kubernetes: "https://github.com/play-with-docker/play-with-kubernetes.github.io"
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "https://www.linkedin.com/in/outofmemory/"
@@ -154,7 +158,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
