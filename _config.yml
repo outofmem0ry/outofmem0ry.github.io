@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: PKS workshop
+title: PKS Workshop
 
 # Short description of your site
 description: An introductry workshop for introduction to PKS
@@ -24,7 +24,7 @@ description: An introductry workshop for introduction to PKS
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Honorable Mentions:
+  References:
     - Awesome Kubernetes: "https://ramitsurana.github.io/awesome-kubernetes/"
     - Kuberenetes by example: "http://kubernetesbyexample.com/"
     - Play with kubernetes: "https://github.com/play-with-docker/play-with-kubernetes.github.io"
