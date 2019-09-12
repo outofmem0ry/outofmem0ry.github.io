@@ -321,9 +321,9 @@ handles replication and self healing
 
 ## PKS Upgrade
 
-- [Determine your upgrade path](https://docs.pivotal.io/runtimes/pks/1-4/upgrade-pks.html#upgrade-path)
-- [Upgrade precheck](https://docs.pivotal.io/runtimes/pks/1-4/upgrade-pks.html#prepare)
-- [Upgrade to Enterprise PKS v1.4.x](https://docs.pivotal.io/runtimes/pks/1-4/upgrade-pks.html#upgrade-tile-1-4)
+- [Determine your upgrade path](https://docs.pivotal.io/pks/1-4/upgrade-pks.html#upgrade-path)
+- [Upgrade precheck](https://docs.pivotal.io/pks/1-4/upgrade-pks.html#prepare)
+- [Upgrade to Enterprise PKS v1.4.x](https://docs.pivotal.io/pks/1-4/upgrade-pks.html#upgrade-tile-1-4)
 - Post upgrade
-  - [Update PKS and Kubernetes CLIs](https://docs.pivotal.io/runtimes/pks/1-4/upgrade-pks.html#update-clis)
-  - [Verify the Upgrade](https://docs.pivotal.io/runtimes/pks/1-4/upgrade-pks.html#verify-upgrade)
+  - [Update PKS and Kubernetes CLIs](https://docs.pivotal.io/pks/1-4/upgrade-pks.html#update-clis)
+  - [Verify the Upgrade](https://docs.pivotal.io/pks/1-4/upgrade-pks.html#verify-upgrade)
